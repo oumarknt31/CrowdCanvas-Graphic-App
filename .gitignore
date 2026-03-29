@@ -1,0 +1,13 @@
+# Images (runtime input/output, not source code)
+input.jpg
+output.jpg
+*.png
+*.jpeg
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS metadata
+.DS_Store
